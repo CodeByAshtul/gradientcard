@@ -12,8 +12,7 @@
 The "Gradient Card" project is a simple web application that displays a card with a gradient background. Users can interact with the card and customize the gradient colors.
 
 ![image](https://github.com/CodeByAshtul/gradientcard/assets/132897582/10a1ee8a-8b64-4561-ae27-69476a1e0628)
-
-
+ ## Project link: [@Gradient Card Project](https://codebyashtul.github.io/gradientcard/)
 ## Features
 
 - Display a card with a gradient background
